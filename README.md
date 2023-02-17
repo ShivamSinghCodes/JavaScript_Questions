@@ -1,14 +1,16 @@
-FAQ
+![Badge](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+###   FAQ
 
-Q: Approach to attempt these questions?
+* Q: Approach to attempt these questions? *
 Ans: Create a new folder and inside that you have to create folder based on the question number (01 Question) then create the required files inside that to solve the problem.
 
-Q: Where we have to submit it?
+* Q: Where we have to submit it? *
 Ans: Push your folder on github and submit the repo link inside the dashboard of ineuron.
 
 
 
-JavaScript Questions:-
+
+# JavaScript Questions:-
 
 01. Create a variable.js file and declare variables and assign string, boolean, undefined and null data types, Display all the value with their data type.
 
@@ -136,20 +138,3 @@ JavaScript Questions:-
 29. Write a javascript program which takes the input of filename as string and prints the extension of the file in the console.
 
 30. Create a simple calculator program in JavaScript which can perform the addition, substraction, multiplication and division on given numbers.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
