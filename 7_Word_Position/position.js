@@ -13,5 +13,6 @@ let indexing = [
   "though"
 ];
 let lindex = indexing.lastIndexOf("pw skills");
-let findex = indexing.indexOf("pw skills");
-console.log("Last index of 'pw skills' is :" + lindex+ " and first is :" + findex);
+let findex = indexing.reverse().lastIndexOf("pw skills");
+let len = indexing.length - 1;
+console.log("Last index of 'pw skills' is :" + lindex+ " and first is :" + (len - findex));
