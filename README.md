@@ -81,7 +81,7 @@
     - March, April or May, the season is Spring
     - June, July or August, the season is Summer
 
-17. Write a program which tells the number of days in a month.
+17. Write a program which tells the  of days in a month.
 
 18. Write a program which tells the number of days in a month, now consider leap year.
 
