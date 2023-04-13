@@ -2,4 +2,4 @@
 
 
 let String = "I sort of got roped into this mess by default.";
-console.log('Does String containing "\I\", "\sort : \ ' + String.includes('i' , "sort"));
+console.log('Does String containing "\I\", "\sort : \" ' + String.includes('I' , "sort"));

@@ -1,0 +1,20 @@
+export let tech = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React JS",
+  "Angular",
+  "Vue.js",
+  "TypeScript",
+  "BootStrap",
+  "backbone",
+  "Javascript js",
+  "php",
+  "java",
+  "Python",
+  "Ruby On Rails",
+  "PostgreSQL",
+  "MariaDB",
+  "MySQL",
+];
+
